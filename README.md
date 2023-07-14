@@ -1,5 +1,5 @@
 # hotel-booking-system
-###Description:
+Description:
 ***A C++ project that uses OOP concepts and File Handling to store the records of rooms in a .DAT file and let the operator perform following operations***
 * Book a room
 *  Check a customer record by entering the room number
